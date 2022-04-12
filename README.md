@@ -33,28 +33,26 @@ CALL python "bot.py"
 
 The script is self-explanatory, now what’s left is the Task Scheduler:
 
-![Untitled](Router%20Reb%20c648c/Untitled.png)
-
- 
+![Untitled](media/Untitled.png)
 
 Create Task:
 
-![Untitled](Router%20Reb%20c648c/Untitled%201.png)
+![Untitled](media/Untitled%201.png)
 
-![Untitled](Router%20Reb%20c648c/Untitled%202.png)
+![Untitled](media/Untitled%202.png)
 
 As for the Triggers settings:
 
-![Untitled](Router%20Reb%20c648c/Untitled%203.png)
+![Untitled](media/Untitled%203.png)
 
 That would make the script executed every 30 minutes.
 
-![Untitled](Router%20Reb%20c648c/Untitled%204.png)
+![Untitled](media/Untitled%204.png)
 
 And the Action would to run the BATCH script (Set up the full path for the **script.bat)**
 
 Once you hit **OK,** the script will run as scheduler.
 
-![Untitled](Router%20Reb%20c648c/Untitled%205.png)
+![Untitled](media/Untitled%205.png)
 
 ![https://media0.giphy.com/media/3oEjI8Kq5HhZLCrqBW/giphy.gif?cid=ecf05e47u0pv3ktu8q0mb4kpdsk3lcwz3yi09epvusjk43yl&rid=giphy.gif&ct=g](https://media0.giphy.com/media/3oEjI8Kq5HhZLCrqBW/giphy.gif?cid=ecf05e47u0pv3ktu8q0mb4kpdsk3lcwz3yi09epvusjk43yl&rid=giphy.gif&ct=g)
