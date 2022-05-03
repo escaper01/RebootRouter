@@ -1,6 +1,6 @@
-# Router Reboot
+# RebootRouter
 
-I made this python script to reboot my Huawei Router b612s-25d programmatically using Selenium.
+I made this python script to reboot my Huawei Router b612s-25d programmatically using Selenium headlessly.
 
 ### Setup:
 
